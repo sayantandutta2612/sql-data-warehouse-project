@@ -101,3 +101,13 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+Let's stay in touch! Feel free to connect with me on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayantan-dutta-1075a5192/)
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+
+Hi there! I'm **Sayantan Dutta**. I love how data can simplify complexity and drive smarter decisions. With hands-on experience in automation and emerging skills in SQL, I’m building my path toward becoming a strong, impact-oriented Data Analyst!
